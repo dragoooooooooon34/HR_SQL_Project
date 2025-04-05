@@ -1,6 +1,6 @@
 # HR_SQL_Project_Jireh_Andre
 
-![image alt]9(https://github.com/dragoooooooooon34/HR_SQL_Project/blob/main/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png?raw=true)
+![image alt](https://github.com/dragoooooooooon34/HR_SQL_Project/blob/main/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png?raw=true)
 
 The dataset was cleaned and queried using MySQL workbench 
 
